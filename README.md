@@ -46,9 +46,9 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 
 ## Experience
 
-**Self Employed Bitcoin Broker** (September 2013 - June 2014)
-
 **Emtec Products Ltd** (Summers of 2012 - 2016, Full-time September 2016 - September 2017)    
+
+**Self Employed Bitcoin Broker** (September 2013 - June 2014)
 
 ## Education
 
@@ -86,4 +86,3 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 - Korfball
 - Chess
 - Reading
-- Nature
