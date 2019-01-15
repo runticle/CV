@@ -22,7 +22,7 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 <!-- dont need bullet points if just one point  - make more than one point maybe?-->
 
 **Fast Learner** <br>
-Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
+- Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
 **Teamwork**
 - Used Agile (scrum) processes to help complete a particularly ambitious group project at Makers Academy. Working together we achieved far more than we could have working individually and enjoyed the two weeks immensely.
@@ -39,10 +39,10 @@ Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the
 
 
 **Creative** <br>
-In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
+- In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
 
 **Curious** <br>
-Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
+- Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
 
 ## Experience
 
