@@ -19,7 +19,7 @@ I have a strong aptitude for picking up new technologies while my background in 
 |[__Acebook__](https://github.com/toddpla/acebook-stars) [<img src='./assets/Github-Mark.png'/>](https://github.com/toddpla/acebook-stars)| Used Rails to build a Facebook clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. |__Rails__<br> __JS__ <br> __React__|__RSpec__ <br> __Jest__|
 |[__Test-Sweet__](https://github.com/rbbri/sweet) [<img src='./assets/Github-Mark.png'/>](https://github.com/rbbri/sweet)| Collaborated with a colleague to build a JavaScript testing framework and published it as an [NPM package](https://www.npmjs.com/package/test-sweet). |__JS__|__Test-Sweet__|
 
-## Technologies
+## Technologies
 
 - JavaScript, React, React-Native, Node.js, Meteor, Ruby on Rails
 - AWS lambda, Codeship, Heroku, Android Studio, Xcode
