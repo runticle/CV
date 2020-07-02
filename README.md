@@ -28,11 +28,11 @@ I have a strong aptitude for picking up new technologies while my background in 
 ## Skills
 
 **Fast Learner** <br>
-- Working at at fast-growing startup has required me to pick up new technologies in very little time. I rapidly learnt node.js to a good standard and have been writing server routes from the first month.
-- Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
+- Working at at fast-growing startup has required me to pick up new technologies in very little time. I rapidly learnt node js at the start and more recently Hugo, which we have used to rebuild the marketing website.
+- Whilst building a Facebook Clone during Makers Academy, we were tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
 **Teamwork**
-- Have continued to use Agile (scrum) technologies at LeSalon having been exposed to them at Makers Academy. Working as such we have managed to increase our relative speed from 2 at the start to over 10 points per dev per day, massively increasing our overall output for the company.
+- Have continued to use Agile processes at LeSalon having been exposed to them at Makers Academy. Working as such we have managed to increase our relative speed from 2 at the start to over 10 points per dev per day, massively increasing our overall output for the company.
 - I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team throughout my years involved a particularly proud achievement of mine.
 
 **Motivated**
@@ -55,7 +55,7 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 **LeSalon Beauty** (February 2019 - Present)
 
-- Worked in a team of 5 devs at first which became a team of 2 after a year. Developed an agile workflow which was improved iteratively, shown by a fourfold relative speed increase over the first year. 
+- Worked both in teams and individually on a wide array of projects.
 - Willfully worked accross the stack on two websites, two apps and an api. 
 - Liaised with customers and therapists alike to develop meaningful features bespoke to their needs.
 
@@ -95,4 +95,4 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 ## Interests
 
-Nature, travel, korfball, reading, lego 
+Nature, travel, korfball, reading, lego
