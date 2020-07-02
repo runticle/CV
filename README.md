@@ -3,7 +3,7 @@
   [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 -----------------
 
-<h4 align=center>Junior Full-Stack Software Developer</h4>
+<h4 align=center>Full-Stack Software Developer</h4>
 
 Since graduating from Makers Academy at the start of 2019 I have been working in a team of developers at LeSalon; a beauty-at-home service providing on demand services to clients in London, with the aim of expanding to a second city soon. Since joining, we have implemented a huge architectural refactor of the React-Native frontend, and written well over 1000 tests whilst releasing some major features.
 
@@ -91,7 +91,4 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 ## Interests
 
-- Cryptocurrency
-- Korfball
-- Chess
-- Reading
+Nature, travel, korfball, reading, lego 
