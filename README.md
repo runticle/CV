@@ -5,7 +5,7 @@
 
 <h4 align=center>Full-Stack Software Developer</h4>
 
-Since graduating from Makers Academy at the start of 2019 I have been working in a team of developers at LeSalon; a beauty-at-home service providing on demand services to clients in London, with the aim of expanding to a second city soon. Since joining, we have implemented a huge architectural refactor of the React-Native frontend, and written well over 1000 tests whilst releasing some major features.
+Since graduating from Makers Academy at the start of 2019 I have been working in a team of developers at LeSalon; a beauty-at-home service providing on demand services to clients in London. Since joining, we have implemented a huge architectural refactor of the React-Native apps, and written well over 1000 tests whilst releasing some major features.
 
 I have a strong aptitude for picking up new technologies while my background in engineering has equipped me with a high level of technical knowledge, a natural problem solving skill-set and an eagerness to learn. I am particularly passionate about cryptocurrencies and other exciting emerging technology and am always looking for opportunities to expand my knowledge as a developer.
 
@@ -21,7 +21,7 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 ## Technologies
 
-- JavaScript, React, React-Native, Node.js, Meteor, Ruby on Rails
+- JavaScript, Python, React, React-Native, Node.js, Jekyll, Hugo, CMS, Meteor, Ruby on Rails
 - AWS lambda, Codeship, Heroku, Android Studio, Xcode
 - Jest, Mocha, RSpec, Cypress
 
@@ -32,11 +32,11 @@ I have a strong aptitude for picking up new technologies while my background in 
 - Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
 **Teamwork**
-- Have continued to use Agile (scrum) technologies at LeSalon having been exposed to them at Makers Academy. Working as such we have managed to increase our speed from 2 to over 4 points per dev per day, massively increasing our overall output for the company.
-- I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particularly proud achievement of mine.
+- Have continued to use Agile (scrum) technologies at LeSalon having been exposed to them at Makers Academy. Working as such we have managed to increase our relative speed from 2 at the start to over 10 points per dev per day, massively increasing our overall output for the company.
+- I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team throughout my years involved a particularly proud achievement of mine.
 
 **Motivated**
-- Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. The company was profiting £3k/month.
+- In 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. The company was profiting £3k/month.
 - This passion led to the self-taught development of a website to broker Bitcoin built in php, html and JavaScript in a couple of months.
 
 **Project Management**
@@ -54,6 +54,10 @@ I have a strong aptitude for picking up new technologies while my background in 
 ## Experience
 
 **LeSalon Beauty** (February 2019 - Present)
+
+- Worked in a team of 5 devs at first which became a team of 2 after a year. Developed an agile workflow which was improved iteratively, shown by a fourfold relative speed increase over the first year. 
+- Willfully worked accross the stack on two websites, two apps and an api. 
+- Liaised with customers and therapists alike to develop meaningful features bespoke to their needs.
 
 **Emtec Products Ltd** (Summers of 2012 - 2016, Full-time September 2016 - September 2017)    
 
