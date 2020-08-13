@@ -21,14 +21,22 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 ## Technologies
 
-- JavaScript, Python, React, React-Native, Node.js, Jekyll, Hugo, CMS, Meteor, Ruby on Rails
-- AWS lambda, Codeship, Heroku, Android Studio, Xcode
+**Languages**
+- Javascript, Python, Ruby, SQL, html, css, scss, less.js, shell
+**Frameworks**
+- React, React-Native, Node.js, Jekyll, Hugo, Meteor, Ruby on Rails
 - Jest, Mocha, RSpec, Cypress
+**Tech**
+- AWS (Lambda, S3, Cloudwatch), Codeship, Heroku, Android Studio, Xcode, CMS, Sketch, Twilio
 
 ## Skills
 
+**Self Learner** <br>
+- Have been teaching myself python during lockdown, building a backend for an app with django as well as an aws-lambda hosted Message Generator than sends a custom 'Good morning' message to random friend every day.
+- Have had to figure out most solutions solo at LeSalon, notably while integrating payment systems such as Braintree and Stripe Connect.
+
 **Fast Learner** <br>
-- Working at at fast-growing startup has required me to pick up new technologies in very little time. I rapidly learnt node js at the start and more recently Hugo, which we have used to rebuild the marketing website.
+- Working at at fast-growing startup has required me to pick up new technologies in very little time. I rapidly learnt node js in the first weeks and more recently Hugo, which we have used to rebuild the marketing website for seo optimization.
 - Whilst building a Facebook Clone during Makers Academy, we were tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
 **Teamwork**
@@ -58,6 +66,7 @@ I have a strong aptitude for picking up new technologies while my background in 
 - Worked both in teams and individually on a wide array of projects.
 - Willfully worked accross the stack on two websites, two apps and an api. 
 - Liaised with customers and therapists alike to develop meaningful features bespoke to their needs.
+- Acted as Interim CTO while the CTO was on paternity leave for a month.
 
 **Emtec Products Ltd** (Summers of 2012 - 2016, Full-time September 2016 - September 2017)    
 
@@ -95,4 +104,4 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 ## Interests
 
-Nature, travel, korfball, reading, lego
+I love to travel, and love to get out of cities into nature. When I can't get out of the city I love to read and tend to my garden, and play lego!
