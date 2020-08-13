@@ -23,9 +23,11 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 **Languages** <br>
 - Javascript, Python, Ruby, SQL, html, css, scss, less.js, shell
+
 **Frameworks** <br>
 - React, React-Native, Node.js, Jekyll, Hugo, Meteor, Ruby on Rails
 - Jest, Mocha, RSpec, Cypress
+
 **Tech** <br>
 - AWS (Lambda, S3, Cloudwatch), Codeship, Heroku, Android Studio, Xcode, CMS, Sketch, Twilio
 
