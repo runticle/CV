@@ -21,12 +21,12 @@ I have a strong aptitude for picking up new technologies while my background in 
 
 ## Technologies
 
-**Languages**
+**Languages** <br>
 - Javascript, Python, Ruby, SQL, html, css, scss, less.js, shell
-**Frameworks**
+**Frameworks** <br>
 - React, React-Native, Node.js, Jekyll, Hugo, Meteor, Ruby on Rails
 - Jest, Mocha, RSpec, Cypress
-**Tech**
+**Tech** <br>
 - AWS (Lambda, S3, Cloudwatch), Codeship, Heroku, Android Studio, Xcode, CMS, Sketch, Twilio
 
 ## Skills
@@ -39,15 +39,15 @@ I have a strong aptitude for picking up new technologies while my background in 
 - Working at at fast-growing startup has required me to pick up new technologies in very little time. I rapidly learnt node js in the first weeks and more recently Hugo, which we have used to rebuild the marketing website for seo optimization.
 - Whilst building a Facebook Clone during Makers Academy, we were tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
-**Teamwork**
+**Teamwork** <br>
 - Have continued to use Agile processes at LeSalon having been exposed to them at Makers Academy. Working as such we have managed to increase our relative speed from 2 at the start to over 10 points per dev per day, massively increasing our overall output for the company.
 - I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team throughout my years involved a particularly proud achievement of mine.
 
-**Motivated**
+**Motivated** <br>
 - In 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. The company was profiting £3k/month.
 - This passion led to the self-taught development of a website to broker Bitcoin built in php, html and JavaScript in a couple of months.
 
-**Project Management**
+**Project Management** <br>
 - Managed teams of up to 15 people on major construction sites in London
 - Worked together with clients, design teams, on-site tradesmen and other contractors
 - Managed acoustic projects on my own from the design phase to completion during my time at Emtec.
@@ -90,18 +90,19 @@ I have a strong aptitude for picking up new technologies while my background in 
 #### University of Bristol (September 2012 - June 2016)
 
 - 2:1 in Mechanical Engineering
+- Focus on systems engineering
 
-#### Radley College (September 2010 - June 2012) A-Levels
+#### A-Levels
 
 - A* in Mathematics
 - A in Further Mathematics
 - A in Physics
 - A in Geography
 
-#### Kingston Grammar School (September 2005 - June 2010)
+#### GCSES
 
 - 10 A* and As at GCSE
 
 ## Interests
 
-I love to travel, and love to get out of cities into nature. When I can't get out of the city I love to read and tend to my garden, and play lego!
+I love to travel, and love to get out of cities into nature. When I can't get out of the city I escape by reading and tending to my garden, and playing lego!
